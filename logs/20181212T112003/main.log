@@ -1,0 +1,28 @@
+[2018-12-12 11:20:03.824] [main] [info] update#setState idle
+[2018-12-12 11:20:33.833] [main] [info] update#setState checking for updates
+[2018-12-12 11:20:33.846] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 11:20:33.848] [main] [info] update#setState idle
+[2018-12-12 12:20:33.872] [main] [info] update#setState checking for updates
+[2018-12-12 12:20:33.906] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 12:20:33.907] [main] [info] update#setState idle
+[2018-12-12 13:20:33.899] [main] [info] update#setState checking for updates
+[2018-12-12 13:20:33.937] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 13:20:33.938] [main] [info] update#setState idle
+[2018-12-12 14:20:33.938] [main] [info] update#setState checking for updates
+[2018-12-12 14:20:33.975] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 14:20:33.975] [main] [info] update#setState idle
+[2018-12-12 15:20:33.982] [main] [info] update#setState checking for updates
+[2018-12-12 15:20:34.015] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 15:20:34.016] [main] [info] update#setState idle
+[2018-12-12 16:20:34.019] [main] [info] update#setState checking for updates
+[2018-12-12 16:20:54.046] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 16:20:54.048] [main] [info] update#setState idle
+[2018-12-12 17:20:34.049] [main] [info] update#setState checking for updates
+[2018-12-12 17:20:54.089] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 17:20:54.091] [main] [info] update#setState idle
+[2018-12-12 18:20:34.072] [main] [info] update#setState checking for updates
+[2018-12-12 18:20:54.106] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 18:20:54.106] [main] [info] update#setState idle
+[2018-12-12 19:20:34.110] [main] [info] update#setState checking for updates
+[2018-12-12 19:20:54.145] [main] [error] Error: net::ERR_NAME_NOT_RESOLVED
+[2018-12-12 19:20:54.146] [main] [info] update#setState idle

@@ -1,0 +1,16 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+#app_lucky_nuber:
+ # path: /lucky/number
+ # controller: App\Controller\LuckyController::number
+
+home:
+  path: /accueil
+  controller: App\Controller\HomeController::index
+
+portfolio.index:
+  path: /portfolio
+  controller: App\Controller\PortfolioController::index
+

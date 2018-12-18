@@ -1,0 +1,6 @@
+[2018-12-12 11:20:18.924] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-12-12 11:20:19.088] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: {1}
+[2018-12-12 11:21:29.393] [renderer1] [info] no standard startup: not just one text editor
+[2018-12-12 11:21:29.520] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: {1}
+[2018-12-12 13:16:42.113] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-12-12 14:54:43.502] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

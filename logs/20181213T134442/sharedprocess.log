@@ -1,0 +1,134 @@
+[2018-12-13 13:44:49.304] [sharedprocess] [info] main {"machineId":"490cddacd65b5c328d3e35d47a7cc7c0dcd20f8e4acbfff27e53d3a01041f913"}
+[2018-12-13 13:44:49.565] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:44:50.251] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:44:52.072] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:44:52.107] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:44:53.806] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:44:53.847] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:44:56.248] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:45:21.773] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:45:21.820] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:45:24.097] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:45:24.153] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:45:29.360] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-12-13 13:45:29.444] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:50:29.518] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:51:40.949] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:51:41.423] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:51:41.497] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:51:41.713] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:51:45.125] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:51:45.237] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:51:45.435] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:55:29.588] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:55:34.498] [sharedprocess] [info] Installing extension: twig
+[2018-12-13 13:55:34.518] [sharedprocess] [info] Scanned user extensions: 0
+[2018-12-13 13:55:35.265] [sharedprocess] [info] Downloaded extension: twig /tmp/2b023ccb-1bab-4ee7-aab3-792cc8041d9e
+[2018-12-13 13:55:36.164] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.whatwedo.twig-1.0.2: whatwedo.twig-1.0.2
+[2018-12-13 13:55:36.197] [sharedprocess] [info] Renamed to /root/.vscode/extensions/whatwedo.twig-1.0.2
+[2018-12-13 13:55:36.197] [sharedprocess] [info] Installation completed. whatwedo.twig-1.0.2
+[2018-12-13 13:55:36.273] [sharedprocess] [info] Extensions installed successfully: whatwedo.twig
+[2018-12-13 13:55:36.643] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:36.916] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:55:46.953] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:47.068] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:47.131] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:47.436] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:47.470] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:55:50.977] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:55:51.027] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:55:51.124] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:55:51.196] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:56:21.260] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:56:32.324] [sharedprocess] [info] Installing extension: php-intellisense
+[2018-12-13 13:56:32.371] [sharedprocess] [info] Scanned user extensions: 1
+[2018-12-13 13:56:36.990] [sharedprocess] [info] Downloaded extension: php-intellisense /tmp/f940e407-397e-40f4-b9b0-e413f78111f6
+[2018-12-13 13:57:53.750] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-intellisense-2.3.10: felixfbecker.php-intellisense-2.3.10
+[2018-12-13 13:57:53.782] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.10
+[2018-12-13 13:57:53.782] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense-2.3.10
+[2018-12-13 13:57:53.906] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2018-12-13 13:57:54.435] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:57:54.810] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:58:35.984] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:58:36.060] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:58:36.117] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:58:36.293] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:58:36.329] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 13:58:39.906] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:58:40.030] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:58:40.150] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:58:40.229] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 13:59:12.462] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 14:02:39.788] [sharedprocess] [info] Installing extension: All-Autocomplete
+[2018-12-13 14:02:39.876] [sharedprocess] [info] Scanned user extensions: 2
+[2018-12-13 14:02:43.275] [sharedprocess] [info] Downloaded extension: All-Autocomplete /tmp/855e6cd7-3664-4b5e-95dd-1219524adc6b
+[2018-12-13 14:03:14.862] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.atishay-jain.all-autocomplete-0.0.18: atishay-jain.all-autocomplete-0.0.18
+[2018-12-13 14:03:14.890] [sharedprocess] [info] Renamed to /root/.vscode/extensions/atishay-jain.all-autocomplete-0.0.18
+[2018-12-13 14:03:14.890] [sharedprocess] [info] Installation completed. atishay-jain.all-autocomplete-0.0.18
+[2018-12-13 14:03:15.084] [sharedprocess] [info] Extensions installed successfully: atishay-jain.all-autocomplete
+[2018-12-13 14:03:15.860] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:16.482] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:03:45.888] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:46.044] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:46.196] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:46.561] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:46.628] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:03:51.335] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:03:51.399] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:03:51.536] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:03:51.653] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:04:16.755] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:06:07.503] [sharedprocess] [info] Installing extension: html-tag-wrapper
+[2018-12-13 14:06:07.590] [sharedprocess] [info] Scanned user extensions: 3
+[2018-12-13 14:06:08.454] [sharedprocess] [info] Downloaded extension: html-tag-wrapper /tmp/ffc1ba6f-c358-49e6-83a1-44b4fb508b06
+[2018-12-13 14:06:09.251] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.hwencc.html-tag-wrapper-0.2.3: hwencc.html-tag-wrapper-0.2.3
+[2018-12-13 14:06:09.318] [sharedprocess] [info] Renamed to /root/.vscode/extensions/hwencc.html-tag-wrapper-0.2.3
+[2018-12-13 14:06:09.324] [sharedprocess] [info] Installation completed. hwencc.html-tag-wrapper-0.2.3
+[2018-12-13 14:06:09.399] [sharedprocess] [info] Extensions installed successfully: hwencc.html-tag-wrapper
+[2018-12-13 14:06:10.144] [sharedprocess] [info] Scanned user extensions: 4
+[2018-12-13 14:06:11.423] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:06:20.202] [sharedprocess] [info] Installing extension: auto-close-tag
+[2018-12-13 14:06:20.415] [sharedprocess] [info] Scanned user extensions: 4
+[2018-12-13 14:06:21.700] [sharedprocess] [info] Downloaded extension: auto-close-tag /tmp/b94aa016-0dfe-47d0-a4b0-e5dedade991f
+[2018-12-13 14:06:23.894] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2018-12-13 14:06:23.901] [sharedprocess] [info] Renamed to /root/.vscode/extensions/formulahendry.auto-close-tag-0.5.6
+[2018-12-13 14:06:23.901] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2018-12-13 14:06:24.005] [sharedprocess] [info] Extensions installed successfully: formulahendry.auto-close-tag
+[2018-12-13 14:06:24.545] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:25.111] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:06:37.317] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:37.412] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:37.513] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:37.888] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:38.002] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:06:43.056] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:06:43.215] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:06:43.381] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:06:43.432] [sharedprocess] [info] Scanned system extensions: 71
+[2018-12-13 14:07:14.692] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:12:14.877] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:17:14.979] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:22:15.451] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:27:15.723] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:32:15.805] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:37:15.937] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:42:16.320] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:47:16.431] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:52:16.482] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 14:57:16.525] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:02:16.566] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:07:16.739] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:12:16.784] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:17:16.815] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:22:16.846] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:27:16.876] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:32:16.902] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:37:16.940] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:42:16.983] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:47:17.162] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:52:17.343] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 15:57:17.466] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 16:02:17.544] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 16:07:17.586] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 16:12:17.604] [sharedprocess] [info] Scanned user extensions: 5
+[2018-12-13 16:17:17.638] [sharedprocess] [info] Scanned user extensions: 5

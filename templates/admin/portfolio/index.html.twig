@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+{% block title 'Portfolio' %}
+{% block body %}
+    <div class="jumbotron" text-center>
+        <h1> Portfolio</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat, aliquid dolore? Ipsam ab nam, sapiente illum doloribus iste, possimus, tempore beatae ratione porro voluptates placeat dicta? Eum nulla unde dolores?</p>
+        
+    </div>
+    <div class="container">
+    
+    <div class="d-flex flex-row bd-highlight justify-content-around">
+        {% for item in items %}
+      <div class="card" style="width: 15rem;">
+        <img class="card-img-top" src="{{item.image}}" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{item.titre}}</h5>
+          <p class="card-text">{{item.description}}</p>
+          <a href="{{path('portfolio.show', {id: item.id, slug:item.slug})}}" class="btn btn-primary">En savoir plus</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+      
+      
+    </div>
+{% endblock %}
